@@ -1,0 +1,3 @@
+## A repository dedicated to learning and practicing JavaScript programming.
+
+LearnJS is a repository designed to help beginners and experienced developers learn and improve their JavaScript programming skills. The repository includes tutorials, exercises, projects, and examples, as well as documentation for commonly used JavaScript libraries and frameworks. Whether you're new to JavaScript or looking to expand your knowledge, LearnJS provides a structured learning path with practical examples and a supportive community. Prior knowledge of HTML and CSS is recommended. Join us on the journey to become a confident JavaScript developer!
